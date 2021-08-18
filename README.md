@@ -10,6 +10,7 @@
 7. run ```pip install scikit-learn```
 8. run the project
 
-![Alt text](C:\Users\amity\Desktop\Screenshot_1.png?raw=true "Title")
+![Screenshot_1](https://user-images.githubusercontent.com/63108895/129909215-13bae293-8724-4563-a415-f887cc17c87b.png)
+
 
 
