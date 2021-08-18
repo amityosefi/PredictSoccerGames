@@ -10,7 +10,16 @@
 7. run ```pip install scikit-learn```
 8. run the project
 
-![Screenshot_1](https://user-images.githubusercontent.com/63108895/129909215-13bae293-8724-4563-a415-f887cc17c87b.png)
+# results
+
+
+![image1](https://user-images.githubusercontent.com/63108895/129914843-20840c43-408a-4436-b94c-7a99ecf2d513.png)
+
+
+![image2](https://user-images.githubusercontent.com/63108895/129914850-2df46d21-1945-4d50-a2fd-59e702d6e008.png)
+
+
+![image3](https://user-images.githubusercontent.com/63108895/129914863-f1ab2388-1001-43b1-8c36-01b2988714a1.png)
 
 
 
